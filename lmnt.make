@@ -153,6 +153,9 @@ projects[views][subdir] = "contrib"
 projects[views_bootstrap][version] = "3.x-dev"
 projects[views_bootstrap][subdir] = "contrib"
 
+; https://www.drupal.org/node/2203111
+projects[views_bootstrap][patch] = "https://www.drupal.org/files/issues/views_bootstrap-2203111-thumbails-columns-per-device-size.patch"
+
 ; +++++ Themes +++++
 
 ; bootstrap
