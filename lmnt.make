@@ -4,7 +4,7 @@ api = "2"
 
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.38.tar.gz"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.38.tar.gz"
 
 ; +++++ Modules +++++
 
@@ -23,7 +23,7 @@ projects[bookchapters][subdir] = "contrib"
 projects[book_explorer][version] = "1.1"
 projects[bookchapters][subdir] = "contrib"
 
-projects[ctools][version] = "1.6"
+projects[ctools][version] = "1.7"
 projects[ctools][subdir] = "contrib"
 
 projects[codefilter][version] = "1.1"
@@ -37,9 +37,6 @@ projects[context_block_disable][subdir] = "contrib"
 
 projects[context_entity_field][version] = "1.1"
 projects[context_entity_field][subdir] = "contrib"
-
-projects[custon_formatters][version] = "2.2"
-projects[custon_formatters][subdir] = "contrib"
 
 projects[ds][version] = "2.10"
 projects[ds][subdir] = "contrib"
@@ -144,10 +141,10 @@ projects[token][subdir] = "contrib"
 projects[variable][version] = "2.5"
 projects[variable][subdir] = "contrib"
 
-projects[video_embed_field][version] = "2.0-beta8"
+projects[video_embed_field][version] = "2.0-beta10"
 projects[video_embed_field][subdir] = "contrib"
 
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 projects[views][subdir] = "contrib"
 
 projects[views_bootstrap][version] = "3.x-dev"
@@ -171,5 +168,3 @@ libraries[getlocations][destination] = "libraries"
 libraries[getlocations][directory_name] = "getlocations"
 libraries[getlocations][download][type] = "get"
 libraries[getlocations][download][url] = "http://dl.dropbox.com/s/o1wp2yv8y05v41w/getlocations-markers.tar.gz"
-
-
