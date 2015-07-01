@@ -170,6 +170,6 @@ libraries[getlocations][type] = "library"
 libraries[getlocations][destination] = "libraries"
 libraries[getlocations][directory_name] = "getlocations"
 libraries[getlocations][download][type] = "get"
-libraries[getlocations][download][url] = "https://dl.dropboxusercontent.com/u/41489105/Drupal/getlocations/getlocations-markers.tar.gz"
+libraries[getlocations][download][url] = "http://dl.dropbox.com/s/o1wp2yv8y05v41w/getlocations-markers.tar.gz"
 
 
