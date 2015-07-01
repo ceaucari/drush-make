@@ -168,3 +168,11 @@ libraries[getlocations][destination] = "libraries"
 libraries[getlocations][directory_name] = "getlocations"
 libraries[getlocations][download][type] = "get"
 libraries[getlocations][download][url] = "http://dl.dropbox.com/s/o1wp2yv8y05v41w/getlocations-markers.tar.gz"
+
+; fitvids
+libraries[fitvids][type] = "library"
+libraries[fitvids][destination] = "libraries"
+libraries[fitvids][directory_name] = "fitvids"
+libraries[fitvids][download][type] = "get"
+libraries[fitvids][download][url] = "https://raw.github.com/davatron5000/FitVids.js/master/jquery.fitvids.js"
+
