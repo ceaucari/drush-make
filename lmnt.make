@@ -39,7 +39,7 @@ projects[context_entity_field][version] = "1.1"
 projects[context_entity_field][subdir] = "contrib"
 
 projects[custon_formatters][version] = "2.2"
-projects[context_entity_field][subdir] = "contrib"
+projects[custon_formatters][subdir] = "contrib"
 
 projects[ds][version] = "2.10"
 projects[ds][subdir] = "contrib"
