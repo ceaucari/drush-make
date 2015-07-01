@@ -11,7 +11,7 @@ projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.38.tar.gz
 projects[admin_menu][version] = "3.0-rc5"
 projects[admin_menu][subdir] = "contrib"
 
-projects[better_exposed_filters][version] = "1.6"
+projects[better_exposed_filters][version] = "3.2"
 projects[better_exposed_filters][subdir] = "contrib"
 
 projects[block_class][version] = "2.1"
